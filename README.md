@@ -1,6 +1,6 @@
-git clone https://github.com/YTforestarmy/dawnX.git
+git clone https://github.com/YTforestarmy/dawn.git
 or
-git clone https://github.com/YTforestarmy/dawnX.git
+git clone https://github.com/YTforestarmy/dawn.git
 cd dawnX
 
 pip install -r requirements.txt
